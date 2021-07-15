@@ -1,0 +1,89 @@
+#One{
+    font-size: 70px;
+    background-color: aqua;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;    
+}
+
+
+#Two{
+
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color:magenta
+
+}
+
+
+#Three{
+
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
+    color: white;
+}
+
+.imgOne{
+    
+    height: 320px;
+    width: 320px;
+}
+
+.B-One{
+
+    height: 50px;
+    width: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+
+.B-Two{
+
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+
+}
+
+body{
+
+    margin: 0%;
+    background-color: darkgreen;
+    height: 800px;
+}
+
+table{
+
+    background-color: white;
+    height: 30px;
+    width: 1310px;
+    position: fixed;
+    top: 0%;
+    
+}
+
+tr{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.P-One{
+
+    background-color: violet;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
+    color: blue;
+
+}
